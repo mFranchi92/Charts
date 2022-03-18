@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r3pYg/TScR61tjCsBJVGsEO4NdN8zteO3k+7xrb/Ds8Xz9duatA0pxo6thVlS2qpDJQE6YstuUJgf0LzbsGmWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samsung\\source\\repos\\Charts\\Charts\\Charts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
