@@ -2,4 +2,4 @@
 
 <p>Repositorio del test solicitado.
 
-Realizado utilizando MVC, C#, JavaScript, AJAX, JQuery</p>
+Realizado utilizando MVC, C#, JavaScript, AJAX, jQuery</p>
