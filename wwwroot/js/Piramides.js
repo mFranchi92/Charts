@@ -3,7 +3,7 @@
         type: "GET",
         contentType: "application/json; charset=utf-8",
         dataType: "json",
-        url: urlBase + '/DataPastel',
+        url: urlBase + '/DataPiramide',
         error: function () {
             alert("Error en consulta de datos");
         },
@@ -20,7 +20,7 @@ function GraficaPiramide(data) {
             type: 'pyramid'
         },
         title: {
-            text: 'Sales pyramid',
+            text: 'Satisfaction index',
             x: -50
         },
         plotOptions: {

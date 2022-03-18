@@ -3,7 +3,7 @@
         type: "GET",
         contentType: "application/json; charset=utf-8",
         dataType: "json",
-        url: urlBase + '/DataPastel',
+        url: urlBase + '/DataPicos',
         error: function () {
             alert("Error en consulta de datos");
         },

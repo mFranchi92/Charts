@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "c22645c4-14ea-457b-b0eb-ccb6ab200e29": {
+      "ProjectGuid": "c22645c4-14ea-457b-b0eb-ccb6ab200e29",
+      "DisplayName": "Charts",
+      "ColorIndex": 0
+    },
+    "6fd03440-c89d-427c-8703-a66b21ac6d54": {
+      "ProjectGuid": "6fd03440-c89d-427c-8703-a66b21ac6d54",
+      "DisplayName": "Charts",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

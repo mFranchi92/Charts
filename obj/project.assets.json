@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samsung\\source\\repos\\Charts\\Charts\\Charts.csproj",
+      "projectUniqueName": "C:\\Users\\Samsung\\OneDrive\\Escritorio\\Charts\\Charts.csproj",
       "projectName": "Charts",
-      "projectPath": "C:\\Users\\Samsung\\source\\repos\\Charts\\Charts\\Charts.csproj",
+      "projectPath": "C:\\Users\\Samsung\\OneDrive\\Escritorio\\Charts\\Charts.csproj",
       "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samsung\\source\\repos\\Charts\\Charts\\obj\\",
+      "outputPath": "C:\\Users\\Samsung\\OneDrive\\Escritorio\\Charts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",

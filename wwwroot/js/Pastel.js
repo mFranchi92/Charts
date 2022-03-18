@@ -23,7 +23,7 @@ function GraficaPastel(data) {
             type: 'pie'
         },
         title: {
-            text: 'Frameworks más utilizados'
+            text: 'Most used Frameworks by 2020'
         },
         tooltip: {
             pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'

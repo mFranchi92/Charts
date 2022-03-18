@@ -3,7 +3,7 @@
         type: "GET",
         contentType: "application/json; charset=utf-8",
         dataType: "json",
-        url: urlBase + '/DataPastel',
+        url: urlBase + '/DataUpdate',
         error: function () {
             alert("Error en consulta de datos");
         },
@@ -17,7 +17,7 @@ function GraficaUpdate(data) {
 
     const chart = Highcharts.chart('update', {
         title: {
-            text: 'Chart.update'
+            text: 'Year Index'
         },
         subtitle: {
             text: 'Plain'
